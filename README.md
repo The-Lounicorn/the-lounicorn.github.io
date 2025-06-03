@@ -15,7 +15,7 @@ The website for Web Design for Everyone course
   <div>
     <p>Where the Grand Canines of the Lounicorn household do their best to steal all the attention, ear-scratches, and leftovers while thoroughly annoying their humans. Enjoy!</p>
    
-    <img src="image.jpg" alt="Description of image">
+    <img src="[image.jpg](https://replit.com/@mloulandy/Neighborhood-Watch-HTML-CSS-JS-Static#finn%20sleeping.jpg)" alt="Description of image">
 
     <p>I lovingly refer to them as the three stooges, but their actual names are:</p>
     <ul>
